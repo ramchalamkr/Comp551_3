@@ -1,0 +1,9 @@
+Please follow the following steps:
+1. Copy train_x.bin, train_y.csv and test_x.bin in the working directory.
+2. Open ipython shell and type following command:
+3. >>>run clean.py
+4. >>>clean() #generate train_x_clean.bin and test_x_clean.bin
+5. >>>run train.py
+6. >>>fname = train() #saves pickle dump for trained model, 2-fold training and validation accuracy for two regularization parameters and returns filename of pickle dump.
+7. >>>predict(fname) #loads pickle dump, and predictis using test_x_clean.bin. Final prediction is saved as 'finalPredictionLogistic.csv'
+
