@@ -6,7 +6,7 @@ Presented with a set of images containing two handwritten digits, the task was t
 
 ## Details
 
-The codes for each of CNN, Logistic Regression and Nerural Nets is provided. Since the input data is huge, it has not been uploaded (Contact me if required). The codes are a mix of Python notebook and traditional python files.
+The codes for each of CNN, Logistic Regression and Neural Nets is provided. Since the input data is huge, it has not been uploaded (Contact me if required). The codes are a mix of Python notebook and traditional python files.
 
 ## Authors
 
